@@ -1,5 +1,6 @@
 body{
     background-color: aquamarine;
-    font-weight:italic;
+    font-style:italic;
     color: rgb(30, 255, 0);
+    font-size: 20px;
 }
